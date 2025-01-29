@@ -1,6 +1,6 @@
 # SISTEM PAKAR FORWARD CHAINING
 
-## HOW TO RUN
+## HOW TO RUN with XAMPP
 
 1. simpen / clone di htdocs projectnya
 2. ke localhost phpMyAdmin di browser

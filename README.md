@@ -5,7 +5,7 @@
 1. simpen / clone di htdocs projectnya
 2. ke localhost phpMyAdmin di browser
 bikin database namain sikar sesuai di folder DB di project nya terus import database nya
-3. di browser masukin di atas localhost/SistemPakarDiagnosaTanaman/index.php
+3. di browser masukin di atas localhost/SP_Tanaman_Sayur/index.php
 
 ### Kelompok 2 AI
 1. Aji Fahreza        -  22020009
